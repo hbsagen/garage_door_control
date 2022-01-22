@@ -1,4 +1,4 @@
-** Garage door status
+Garage door control
 
 An Arduino project for detecting if the garage door is open or closed, and displaying this with a webserver and a button for open/close
 
